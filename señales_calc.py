@@ -1,8 +1,5 @@
-from matplotlib.backends.backend_tkagg import *
-import numpy as np
 from numpy import *
-import matplotlib.pyplot as plt
-
+import numpy as np
 
 # Calcular transformada de Fourier
 def calc_trans(t, senal):
